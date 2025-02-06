@@ -1,2 +1,2 @@
-![snake.svg](https://raw.githubusercontent.com/Dog-Egg/Resources/output/github-contribution-grid-snake.svg)
-![snake-dark.svg](https://raw.githubusercontent.com/Dog-Egg/Resources/output/github-contribution-grid-snake-dark.svg)
+![snake.svg](https://cdn.jsdelivr.net/gh/Dog-Egg/contribution-grid-snakes@output/github-contribution-grid-snake.svg)
+![snake-dark.svg](https://cdn.jsdelivr.net/gh/Dog-Egg/contribution-grid-snakes@output/github-contribution-grid-snake-dark.svg)
